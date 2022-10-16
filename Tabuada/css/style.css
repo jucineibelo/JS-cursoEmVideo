@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+    background-color: bisque;
+    font-size: medium;
+}
+
+header h1 {
+    font-size: 40px;
+    color: brown;
+}
+
+footer {
+    color: rgb(19, 60, 138);
+}
